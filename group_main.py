@@ -1,4 +1,4 @@
-#GITHUB: zxcresp
+#GITHUB: shadxwblade 
 from group_setting import show_group_menu, handle_group_actions, is_group_admin, start_rules_setup, start_welcome_setup
 import sqlite3
 import threading
